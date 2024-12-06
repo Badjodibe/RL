@@ -1,0 +1,8 @@
+Description du Travail
+
+1. Comme je l'ai montré sur l'image pour le premier excercice, mon algorthme de calcule de la matrice stationnaire
+ne tien compte des classe transitons et recurrent en entré. 
+
+
+2. Pour la question 2 je n'ai pas réalisé l'lgorithme de recherche de stratégie alpha optimal par 
+l'algorthme de stratégie amélioré j'ai fait que value itération et programmation lineaire.
